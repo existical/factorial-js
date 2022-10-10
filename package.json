@@ -1,0 +1,19 @@
+{
+  "name": "factorial-js",
+  "version": "0.1.11",
+  "description": "Calculate the factorial of a really huge number. The result is returned in a string form or number array.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "factorial",
+    "math"
+  ],
+  "author": "Andrjus Valkuns",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
